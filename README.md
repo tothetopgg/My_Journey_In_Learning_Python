@@ -1,2 +1,2 @@
-# My_Journey_In_Learning_Python
+# My Journey In Learning Python
 My daily code lessons pushed to github
