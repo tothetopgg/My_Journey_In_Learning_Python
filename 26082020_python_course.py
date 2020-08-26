@@ -1,6 +1,6 @@
 ### 26 / 08 / 2020
 ### Tommy Broekman
-### The range Function
+### Lesson 24 to Lesson 37
 
 # Using the range fucntion
 for value in range(1,5):
@@ -71,4 +71,3 @@ if password == "janniksucks":
     print("Welcome Tommy")
 else:
     print("Incorrect password. Please try again")
-#conditional tests in Python
