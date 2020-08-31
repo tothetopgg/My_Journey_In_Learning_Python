@@ -38,5 +38,3 @@ if 'middle_row' in booking_details:
     print('Your receipt is 010 in the middle row')
 if 'screen two' in booking_details:
     print("Your film is in screen two")
-
-# Using if statements with listws
